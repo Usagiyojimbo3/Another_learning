@@ -50,27 +50,27 @@ thumbnail: thumbnails/resized/732afac2e0935c4b5f0359e4d7f4197a_86cf658e.webp
 
 **Kommando som användes till Git/Hub**
 
-[^1]: Öppnar VS studio code med inbyggd terminal 
+Öppnar VS studio code med inbyggd terminal 
 
-[^2]: Kommando --> git clone (namn på repo som finns på Github hemsida).
+Kommando --> git clone (namn på repo som finns på Github hemsida).
 
-[^3]: Använder VS studio code för att skriva kod inom repo som clonades (kontrollera med linux kommando (pwd)).
+Använder VS studio code för att skriva kod inom repo som clonades (kontrollera med linux kommando (pwd)).
 
-[^4]: Kommando --> git init. (för att installera packet som tillhör init för att senare kunna använda git config --global user.name & git config --global user.email) (Detta för att kunna spåra min användning)
+Kommando --> git init. (för att installera packet som tillhör init för att senare kunna använda git config --global user.name & git config --global user.email) (Detta för att kunna spåra min användning)
 
-[^5]: Sedan linux kommando ls -la (list på dolda filder som jag har i folder/directory) 
+Sedan linux kommando ls -la (list på dolda filder som jag har i folder/directory) 
 
-[^6]: Kommando --> git status & git log (identifiera vad som händer , vart jag är ^ vart jag ska) (indikation på röd 🔴 som betyder att add behövs)
+Kommando --> git status & git log (identifiera vad som händer , vart jag är ^ vart jag ska) (indikation på röd 🔴 som betyder att add behövs)
 
-[^7]: Kommando --> git add . (add 🟢 lägger till filerna så att jag senare kan commit) (när det finns punk . innebär det hela innehållet i folder/directory)
+Kommando --> git add . (add 🟢 lägger till filerna så att jag senare kan commit) (när det finns punk . innebär det hela innehållet i folder/directory)
 
-[^8]: Kommando --> git commit -m (meddelange som visar kommit) (sedan kontroll igen git status & git log)
+Kommando --> git commit -m (meddelange som visar kommit) (sedan kontroll igen git status & git log)
 
-[^9]: git remote add origin set-url (namn på repo sedan i slutet .git)
+git remote add origin set-url (namn på repo sedan i slutet .git)
 
-[^10]: git remote -v (kontrollera vad som har matat in)
+git remote -v (kontrollera vad som har matat in)
 
-[^11]: git push origin main (kontrollera i denna situation så att branch är rätt alltså att (main) stämmer in)
+git push origin main (kontrollera i denna situation så att branch är rätt alltså att (main) stämmer in)
 
 ---
 ### *Random test* 😁
